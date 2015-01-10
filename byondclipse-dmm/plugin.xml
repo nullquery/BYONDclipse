@@ -5,12 +5,12 @@
    <extension
          point="org.eclipse.ui.editors">
       <editor
-            name="BYOND Code File"
-            extensions="dm"
-            icon="icons/file_dm.gif"
+            name="BYOND Map File"
+            extensions="dmm"
+            icon="icons/file_dmm.gif"
             contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"
-            class="com.byonddev.byondclipse.dm.editors.DMEditor"
-            id="com.byonddev.byondclipse.dm.editors.DMEditor">
+            class="com.byonddev.byondclipse.dmm.editors.DMMEditor"
+            id="com.byonddev.byondclipse.dmm.editors.DMMEditor">
       </editor>
    </extension>
 
