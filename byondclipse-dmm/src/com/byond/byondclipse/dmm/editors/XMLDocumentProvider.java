@@ -17,7 +17,7 @@ public class XMLDocumentProvider extends FileDocumentProvider {
 
 		if (document != null)
 		{
-			final MapFile mapFile = MapFile.parse(document.get());
+			MapFile.parse(document.get());
 
 			final IDocumentPartitioner partitioner =
 				new FastPartitioner(
