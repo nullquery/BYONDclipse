@@ -7,7 +7,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
     <artifactId>byondclipse</artifactId>
-    <version>1.0.0</version>
+    <version>1.0.1-SNAPSHOT</version>
     <name>BYONDclipse</name>
     <description>A bundle providing BYOND development kit features to Eclipse.</description>
     <inceptionYear>2015</inceptionYear>
