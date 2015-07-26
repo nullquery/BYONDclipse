@@ -2,7 +2,7 @@
 <feature
       id="byondclipse-feature"
       label="BYONDclipse"
-      version="1.0.0.qualifier">
+      version="1.0.0">
 
    <description url="http://www.example.com/description">
       [Enter Feature Description here.]
@@ -18,21 +18,21 @@
 
    <plugin
          id="byondclipse-core"
-         version="1.0.0.qualifier"
+         version="1.0.0"
          unpack="false"/>   
 
    <plugin
          id="byondclipse-dm"
-         version="1.0.0.qualifier"
+         version="1.0.0"
          unpack="false"/>
 
    <plugin
          id="byondclipse-project"
-         version="1.0.0.qualifier"
+         version="1.0.0"
          unpack="false"/>
 
    <plugin
          id="byondclipse-dmm"
-         version="1.0.0.qualifier"
+         version="1.0.0"
          unpack="false"/>
 </feature>

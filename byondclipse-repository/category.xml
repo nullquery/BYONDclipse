@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature id="byondclipse-feature" version="1.0.0.qualifier">
+   <feature id="byondclipse-feature" version="1.0.0">
       <category name="byondclipse-feature.category" />
    </feature>
    <category-def name="byondclipse-feature.category" label="BYOND SDK">
