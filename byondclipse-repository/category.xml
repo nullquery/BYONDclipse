@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/byondclipse-feature_1.0.1.qualifier.jar" id="byondclipse-feature" version="1.0.1.qualifier">
+      <category name="byondclipse-feature.category"/>
+   </feature>
+   <category-def name="byondclipse-feature.category" label="BYOND SDK">
+      <description>
+         An SDK for developing games with BYOND
+      </description>
+   </category-def>
+</site>

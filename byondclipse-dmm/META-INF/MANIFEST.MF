@@ -1,13 +1,13 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Byondclipse-dmm
+Bundle-Name: byondclipse-dmm
 Bundle-SymbolicName: byondclipse-dmm;singleton:=true
-Bundle-Version: 1.0.0.qualifier
-Bundle-Activator: com.byonddev.byondclipse.dmm.Activator
+Bundle-Version: 1.0.1.qualifier
+Bundle-Activator: com.byond.byondclipse.dmm.Activator
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
  org.eclipse.jface.text,
- org.eclipse.ui.editors
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+ org.eclipse.ui.editors,
+ byondclipse-core
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ActivationPolicy: lazy
-Import-Package: com.byonddev.byondclipse.core

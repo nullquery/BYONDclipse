@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project
+     xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+    http://maven.apache.org/xsd/maven-4.0.0.xsd"
+    xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<modelVersion>4.0.0</modelVersion>
+
+    <artifactId>byondclipse-dmm</artifactId>
+	<name>BYONDclipse :: DM</name>
+	<description>A plugin providing DMM specific BYOND development kit features to Eclipse.</description>
+	<inceptionYear>2015</inceptionYear>
+	<url>http://byond.awesomeware.org/maven/${project.groupId}/${project.artifactId}/${project.version}</url>
+    <packaging>eclipse-plugin</packaging>
+
+	<parent>
+		<groupId>com.byond</groupId>
+		<artifactId>byondclipse</artifactId>
+		<version>1.0.1-SNAPSHOT</version>
+	</parent>
+</project>

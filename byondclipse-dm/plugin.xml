@@ -9,8 +9,8 @@
             extensions="dm"
             icon="icons/file_dm.gif"
             contributorClass="org.eclipse.ui.texteditor.BasicTextEditorActionContributor"
-            class="com.byonddev.byondclipse.dm.editors.DMEditor"
-            id="com.byonddev.byondclipse.dm.editors.DMEditor">
+            class="com.byond.byondclipse.dm.editors.DMEditor"
+            id="com.byond.byondclipse.dm.editors.DMEditor">
       </editor>
    </extension>
 

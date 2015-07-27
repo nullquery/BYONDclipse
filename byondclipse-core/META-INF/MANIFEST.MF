@@ -1,11 +1,11 @@
 Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
-Bundle-Name: Byondclipse-core
+Bundle-Name: byondclipse-core
 Bundle-SymbolicName: byondclipse-core;singleton:=true
-Bundle-Version: 1.0.0.qualifier
-Bundle-Activator: com.byonddev.byondclipse.core.Activator
+Bundle-Version: 1.0.1.qualifier
+Bundle-Activator: com.byond.byondclipse.core.Activator
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 Bundle-ActivationPolicy: lazy
-Export-Package: com.byonddev.byondclipse.core
+Export-Package: com.byond.byondclipse.core

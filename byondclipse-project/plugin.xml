@@ -9,7 +9,7 @@
       <builder
             hasNature="true">
          <run
-               class="com.byonddev.byondclipse.project.builder.DMBuilder">
+               class="com.byond.byondclipse.project.builder.DMBuilder">
          </run>
       </builder>
    </extension>
@@ -19,7 +19,7 @@
          point="org.eclipse.core.resources.natures">
       <runtime>
          <run
-               class="com.byonddev.byondclipse.project.builder.DMNature">
+               class="com.byond.byondclipse.project.builder.DMNature">
          </run>
       </runtime>
       <builder
@@ -34,7 +34,7 @@
       </category>
       <command
             name="Add/RemoveDM Project Nature"
-            defaultHandler="com.byonddev.byondclipse.project.builder.AddRemoveDMNatureHandler"
+            defaultHandler="com.byond.byondclipse.project.builder.AddRemoveDMNatureHandler"
             categoryId="byondclipse-project.dmNature.category"
             id="byondclipse-project.addRemoveDMNature">
       </command>
